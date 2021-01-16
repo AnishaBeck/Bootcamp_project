@@ -1,3 +1,3 @@
-# Bootcamp Project
+# Banking Project: 
 
-Banking Project: Predict if the client will subscribe to a term deposit based on the analysis of the marketing  campaigns.
+Predict if the client will subscribe to a term deposit based on the analysis of the marketing  campaigns.
